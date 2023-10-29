@@ -1,15 +1,3 @@
-# web3security
+## web3security
 
-## basic knowledge
-
-### whitepaper
-
-| name   | link                                                      |
-| ------ | --------------------------------------------------------- |
-| btc    | https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf |
-| eth    | https://ethereum.org/zh/whitepaper/                       |
-| solana | https://solana.com/solana-whitepaper.pdf                  |
-
-### 
-
-### 
+一个关于web3的个人知识库，记录了解到的一切知识，初期不够完善，随着个人学习不断完善。
